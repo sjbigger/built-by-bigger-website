@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Built by Bigger">
+  <rect width="64" height="64" rx="14" fill="#0f1729"/>
+  <rect x="4" y="4" width="56" height="56" rx="12" fill="#f7f8fa"/>
+  <text x="32" y="40" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#1d4ed8">Bb</text>
+</svg>
